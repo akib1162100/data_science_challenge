@@ -1,0 +1,3 @@
+1. vitualenv olt_env (create vitualenv)
+2. .\olt_env\Scripts\activate (activate vitualenv)
+3. Set-ExecutionPolicy RemoteSigned (for  running scripts is disabled on this system error )
